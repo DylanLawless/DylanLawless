@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DylanLawless
+- 👋 I am @DylanLawless
 - 👀 I specialise in Genomics for Precision Medicine.
 - 🌱 I’m currently working on a diagnostic genetics platform while doing postdoc work in Switzerland.
 - 📫 Go find my website if you want to chat - it's out there!
