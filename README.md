@@ -4,15 +4,13 @@
 - 📫 Find my website if you want to chat
 - 🌱 Switzerland
 
-## Getting it done
-- Precision medicine: not so easy
-- To make a difference: it has to work
-- My job: convert our research into something that works at the national level
+## My work
+- Precision medicine
 - 🔧 University children's hospital [KISPI](https://www.kispi.uzh.ch), [University of Zürich](https://www.uzh.ch/de.html), and [EPFL](https://www.epfl.ch/en/)
   - open code 💾
   - open docs 📖
   - protected data 🔐
-- Find the links for `<PipeDev>` [here](https://swisspedhealth-pipelinedev.github.io)
+- Find the links for `<PipeDev>` [here](https://swisspedhealth-pipelinedev.github.io/docs)
 
 ## Research
 - 💡 Specialized: statistical methods, best practices, and dev in national-scale diagnosis
