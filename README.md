@@ -6,7 +6,7 @@ I work across genomics, multi-omics, clinical data, statistical inference, secur
 
 **Professional profile**: [lawless.ch](https://lawless.ch)  
 **Major commercial outputs**: [Switzerland Omics](https://switzerlandomics.ch)  
-**Main academic outputs**: [ORCID](https://orcid.org/0000-0001-8496-3725) · [Google Scholar](https://scholar.google.com/citations?user=RPBxP1wAAAAJ&hl=en&oi=ao)
+**Main academic outputs**: [ORCID](https://orcid.org/0000-0001-8496-3725) · [Google Scholar](https://scholar.google.com/citations?user=RPBxP1wAAAAJ&hl=en&oi=ao)  
 **Design and product systems**: [design.lawless.ch](https://design.lawless.ch)  
 
 ---
