@@ -4,7 +4,7 @@ Biomedical evidence, software, infrastructure, and product delivery.
 
 I work across genomics, multi-omics, clinical data, statistical inference, secure computing, and scientific software. My focus is the chain from evidence to usable systems: data structure, method, provenance, documentation, interface, governance, and decision support.
 
-**Main profile**: [lawless.ch](https://lawless.ch)  
+**Professional profile**: [lawless.ch](https://lawless.ch)  
 **Commercial work**: [Switzerland Omics](https://switzerlandomics.ch)  
 **Design and product systems**: [design.lawless.ch](https://design.lawless.ch)  
 **Academic record**: [ORCID](https://orcid.org/0000-0001-8496-3725) · [Google Scholar](https://scholar.google.com/citations?user=RPBxP1wAAAAJ&hl=en&oi=ao)
@@ -13,7 +13,7 @@ I work across genomics, multi-omics, clinical data, statistical inference, secur
 
 ## Current focus
 
-I build reviewable analytical systems for precision medicine, diagnostics, biomarker research, and biomedical data infrastructure.
+I build verifiable analytical systems for precision medicine, diagnostics, biomarker research, and biomedical data infrastructure.
 
 Core areas:
 
@@ -39,15 +39,6 @@ My software and product work is grounded in academic and clinical research acros
 | 2009 to 2013 | University College Cork | BSc Microbiology, host-pathogen biology, and immunology |
 
 Selected awards include the FKZ Children’s Research Centre research prize, Microsoft Azure Research Award, Wellcome Genome Campus visitor research grant, and University of Leeds postgraduate research scholarships.
-
-## Selected work
-
-| Area | Description | Link |
-| --- | --- | --- |
-| Professional profile | Personal professional profile, employment history, academic background, and public work | [lawless.ch](https://lawless.ch) |
-| Switzerland Omics | Commercial genomics, probabilistic interpretation, evidence databases, and biomedical infrastructure | [switzerlandomics.ch](https://switzerlandomics.ch) |
-| Design portfolio | Brand, UX, and product systems for life science, health technology, and deep technology | [design.lawless.ch](https://design.lawless.ch) |
-| Academic output | Publications, software-linked papers, citations, and research record | [ORCID](https://orcid.org/0000-0001-8496-3725) · [Google Scholar](https://scholar.google.com/citations?user=RPBxP1wAAAAJ&hl=en&oi=ao) |
 
 ---
 
@@ -120,52 +111,14 @@ Repositories in this area turn methods into reusable tools, interfaces, database
 
 ---
 
-## Academic appointments and research context
-
-My main academic work has been carried out across:
-
-- Universitäts-Kinderspital Zürich and the University of Zurich, focused on translational medicine, paediatric critical care, clinical genomics, multi-omics, and secure biomedical data infrastructure
-- EPFL Global Health Institute, focused on human genomics of infection, immunity, host-pathogen biology, and translational cohort analysis
-- University of Leeds School of Medicine and St James’s University Hospital, focused on rare immune disease discovery, genomic interpretation, and functional validation
-
-Selected academic record:
-
-- [ORCID](https://orcid.org/0000-0001-8496-3725)
-- [Google Scholar](https://scholar.google.com/citations?user=RPBxP1wAAAAJ&hl=en&oi=ao)
-- [Professional profile](https://lawless.ch)
-
----
-
-## Selected publications linked to software
-
-- Lawless et al. Application of Qualifying Variants for Genomic Analysis. Bioinformatics, 2026. [DOI](https://doi.org/10.1093/bioinformatics/btaf676)
-- Quant Group et al. PanelAppRex Aggregates Disease Gene Panels and Facilitates Sophisticated Search. Bioinformatics Advances, 2026. [DOI](https://doi.org/10.1093/bioadv/vbag115)
-- Lawless et al. Archipelago Method for Variant Set Association Test Statistics. Genetic Epidemiology, 2026. [DOI](https://doi.org/10.1002/gepi.70025)
-- Lawless. quantbayes: Bayesian Quantification of Evidence Sufficiency. CRAN, 2025. [DOI](https://doi.org/10.32614/CRAN.package.quantbayes)
-
----
-
 ## Technology stack
 
 ```text
 Languages          R · Python · SQL · Bash · C · Rust · TypeScript
 Data               WGS · RNA-seq · proteomics · metabolomics · EHR-linked data
-Statistics         Bayesian inference · statistical genetics · GWAS · rare variants
+Statistics         Regression · Bayesian inference · machine learning · statistical learning · uncertainty quantification
 Systems            Linux · HPC · Docker · Apptainer · Nextflow · Snakemake
 Platforms          PostgreSQL · Supabase · Next.js · React · Vercel · APIs
 AI                 retrieval · embeddings · structured extraction · agentic workflows
 Governance         provenance · auditability · secure data · GDPR/FADP · IVDR-aware workflows
-````
-
----
-
-## Links
-
-* Professional profile: [lawless.ch](https://lawless.ch)
-* Commercial work: [switzerlandomics.ch](https://switzerlandomics.ch)
-* Design and product systems: [design.lawless.ch](https://design.lawless.ch)
-* QuantBayes Studio: [quantbayes.com](https://quantbayes.com)
-* Genomic Vault: [genomicvault.switzerlandomics.ch](https://genomicvault.switzerlandomics.ch)
-* Swiss Genomics Association: [swissgenomicsassociation.ch](https://www.swissgenomicsassociation.ch)
-* ORCID: [0000-0001-8496-3725](https://orcid.org/0000-0001-8496-3725)
-
+```
