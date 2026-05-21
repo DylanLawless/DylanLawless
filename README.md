@@ -70,44 +70,15 @@ Selected awards include the FKZ Children’s Research Centre research prize, Mic
 
 ## Repository map
 
-This account contains research code, R packages, analysis workflows, documentation sites, data products, and experimental software. The most useful entry points are organised below.
+This account contains research code, R packages, analysis workflows, documentation sites, data products, and product prototypes.
 
-### Genomic evidence and variant interpretation
+Main repository areas:
 
-Repositories in this area support disease-gene evidence, qualifying variant criteria, variant classification logic, priors, posteriors, and reproducible interpretation.
-
-- Panel and disease-gene aggregation
-- Variant interpretation standards
-- Bayesian evidence sufficiency
-- Rare disease and immune disease genetics
-- Structured genomic reports
-
-### Statistical genetics and association testing
-
-Repositories in this area support cohort analysis, GWAS, rare variant testing, gene-level analysis, variant set methods, and publication-quality visualisation.
-
-- GWAS and regional plots
-- Variant set association testing
-- Population and cohort analysis
-- Statistical figures and analytical reporting
-
-### Multi-omics and clinical data systems
-
-Repositories in this area support WGS, RNA-seq, proteomics, metabolomics, phenotype-linked evidence, EHR-linked workflows, and secure analytical infrastructure.
-
-- Patient-level multi-omics workflows
-- Secure HPC and Linux pipelines
-- Structured metadata and reporting
-- Clinical research data models
-
-### Scientific software and product prototypes
-
-Repositories in this area turn methods into reusable tools, interfaces, databases, and documentation systems.
-
-- R and Python packages
-- Next.js, React, TypeScript, Supabase, and PostgreSQL systems
-- APIs, dashboards, and authenticated scientific platforms
-- Documentation and public technology pages
+- Statistical modelling, machine learning, and reproducible analysis
+- Genomics, multi-omics, and biomedical evidence systems
+- R and Python packages for scientific computing and reporting
+- Secure data workflows, clinical research infrastructure, and structured outputs
+- Web products, documentation systems, and scientific interfaces
 
 ---
 
