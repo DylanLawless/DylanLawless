@@ -32,9 +32,10 @@ My software and product work is grounded in academic and clinical research acros
 
 | Period | Institution | Focus |
 | --- | --- | --- |
-| 2023 to present | Universitäts-Kinderspital Zürich and University of Zurich | Translational medicine, paediatric critical care, clinical genomics, multi-omics, and secure biomedical data infrastructure |
-| 2018 to 2023 | EPFL Global Health Institute | Human genomics of infection and immunity, host-pathogen biology, statistical genetics, and translational cohort analysis |
+| 2023 to present | Universitäts-Kinderspital Zürich and University of Zurich | Intensive care and neonatolgy, Translational medicine, paediatric critical care, clinical genomics, multi-omics, and secure biomedical data infrastructure |
+| 2018 to 2023 | EPFL Global Health Institute | Fellay lab, Human genomics of infection and immunity, host-pathogen biology, statistical genetics, and translational cohort analysis |
 | 2015 to 2019 | University of Leeds School of Medicine and St James’s University Hospital | PhD in Medicine, rare immune disease discovery, genomic interpretation, and functional validation |
+| 2014 to 2015 | EPFL Global Health Institute | Ablasser lab, Innate Immunity |
 | 2013 to 2014 | Trinity College Dublin | MSc Immunology, first class honours |
 | 2009 to 2013 | University College Cork | BSc Microbiology, host-pathogen biology, and immunology |
 
