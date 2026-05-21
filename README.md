@@ -14,6 +14,7 @@ I work across genomics, multi-omics, clinical data, statistical inference, secur
 ## Current focus
 
 I build verifiable analytical systems for precision medicine, diagnostics, biomarker research, and biomedical data infrastructure.
+I am especially interested in turning basic research into products for biotech, pharma, and diagnostics. That work depends collaboration, infrastructure, documentation, IP awareness, regulatory judgement, and a clear understanding of how scientific products reach real users.
 
 Core areas:
 
