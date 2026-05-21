@@ -42,29 +42,19 @@ Selected awards include the FKZ Children’s Research Centre research prize, Mic
 
 ---
 
-## Selected software and data products
+## Selected software and outputs
 
-| Project | Scope | Links |
-| --- | --- | --- |
-| QuantBayes | Bayesian quantification of genomic evidence sufficiency | [CRAN](https://cran.r-project.org/package=quantbayes) · [DOI](https://doi.org/10.32614/CRAN.package.quantbayes) |
-| Archipelago | Variant set association statistics and visualisation | [CRAN](https://cran.r-project.org/package=archipelago) · [paper](https://doi.org/10.1002/gepi.70025) |
-| VCFheader | VCF header parsing and standalone HTML reporting | [CRAN](https://cran.r-project.org/package=vcfheader) |
-| PanelAppRex | Disease-gene panel aggregation, search, and interpretation | [repository](https://github.com/DylanLawless/PanelAppRex) · [paper](https://doi.org/10.1093/bioadv/vbag115) |
-| Qualifying variant database | Reusable YAML criteria for genomic variant interpretation | [technology page](https://switzerlandomics.ch/technologies/qv_database/) · [paper](https://doi.org/10.1093/bioinformatics/btaf676) |
-| Genomic Vault | Long-term custody and controlled access for genomic data | [platform](https://genomicvault.switzerlandomics.ch) |
-
----
-
-## R packages
-
-[![quantbayes CRAN version](https://www.r-pkg.org/badges/version/quantbayes)](https://cran.r-project.org/package=quantbayes)
-[![quantbayes CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/quantbayes)](https://cran.r-project.org/package=quantbayes)
-
-[![archipelago CRAN version](https://www.r-pkg.org/badges/version/archipelago)](https://cran.r-project.org/package=archipelago)
-[![archipelago CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/archipelago)](https://cran.r-project.org/package=archipelago)
-
-[![vcfheader CRAN version](https://www.r-pkg.org/badges/version/vcfheader)](https://cran.r-project.org/package=vcfheader)
-[![vcfheader CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/vcfheader)](https://cran.r-project.org/package=vcfheader)
+| Output | Type | Scope | Links |
+| --- | --- | --- | --- |
+| QuantBayes Studio | Product | Evidence-based conclusions for AI, science, engineering, and regulated work | [site](https://quantbayes.com) |
+| QuantBayes | R package and engine | Bayesian quantification of genomic evidence sufficiency with posterior intervals | [site](https://switzerlandomics.ch/technologies/quantbayes/) · [article](https://doi.org/10.64898/2025.12.02.25341503) · [CRAN](https://cran.r-project.org/package=quantbayes) · [Zenodo](https://doi.org/10.5281/zenodo.17919369)<br>[![CRAN version](https://www.r-pkg.org/badges/version/quantbayes)](https://cran.r-project.org/package=quantbayes) [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/quantbayes)](https://cran.r-project.org/package=quantbayes) |
+| Archipelago | R package | Variant set association statistics and visualisation for complex genomic studies | [site](https://switzerlandomics.ch/technologies/archipelago/) · [article](https://doi.org/10.1002/gepi.70025) · [CRAN](https://cran.r-project.org/package=archipelago)<br>[![CRAN version](https://www.r-pkg.org/badges/version/archipelago)](https://cran.r-project.org/package=archipelago) [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/archipelago)](https://cran.r-project.org/package=archipelago) |
+| VCFheader | R package and browser tool | VCF header parsing and structured standalone HTML reporting | [site](https://switzerlandomics.ch/technologies/vcfheader/) · [browser](https://switzerlandomics.ch/technologies/vcfheader/browser) · [CRAN](https://cran.r-project.org/package=vcfheader)<br>[![CRAN version](https://www.r-pkg.org/badges/version/vcfheader)](https://cran.r-project.org/package=vcfheader) [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/vcfheader)](https://cran.r-project.org/package=vcfheader) |
+| Evidence ratio | R package | Likelihood-based evidence scale for clinical trials, studies, and analytical results | [site](https://switzerlandomics.ch/technologies/evidence_ratio/) · [CRAN](https://cran.r-project.org/package=evidenceratio)<br>[![CRAN version](https://www.r-pkg.org/badges/version/evidenceratio)](https://cran.r-project.org/package=evidenceratio) [![CRAN downloads](https://cranlogs.r-pkg.org/badges/grand-total/evidenceratio)](https://cran.r-project.org/package=evidenceratio) |
+| PanelAppRex AI | Data product and application | Harmonised disease-gene panels from structured clinical and genetic queries | [site](https://switzerlandomics.ch/technologies/panelAppRexAi/) · [article](https://doi.org/10.1093/bioadv/vbag115) · [repository](https://github.com/DylanLawless/PanelAppRex) · [dataset](https://doi.org/10.5281/zenodo.15736689)<br>[![GitHub stars](https://img.shields.io/github/stars/DylanLawless/PanelAppRex?style=social)](https://github.com/DylanLawless/PanelAppRex) |
+| Qualifying variant database | Standard and database | Reusable YAML criteria for reproducible genomic variant interpretation | [site](https://switzerlandomics.ch/technologies/qv_database/) · [article](https://doi.org/10.1093/bioinformatics/btaf676) |
+| Genomic Vault | Platform | Long-term custody and controlled access for genomics and precision medicine | [platform](https://genomicvault.switzerlandomics.ch) |
+| IEI genetics database | Database | Genetic panels and prior probabilities for disease-causing variants in inborn errors of immunity | [site](https://switzerlandomics.ch/technologies/iei_genetics/) · [article](https://doi.org/10.1101/2025.03.25.25324607) |
 
 ---
 
