@@ -5,16 +5,16 @@ Biomedical evidence, software, infrastructure, and product delivery.
 I work across genomics, multi-omics, clinical data, statistical inference, secure computing, and scientific software. My focus is the chain from evidence to usable systems: data structure, method, provenance, documentation, interface, governance, and decision support.
 
 **Professional profile**: [lawless.ch](https://lawless.ch)  
-**Commercial work**: [Switzerland Omics](https://switzerlandomics.ch)  
+**Major commercial outputs**: [Switzerland Omics](https://switzerlandomics.ch)  
+**Main academic outputs**: [ORCID](https://orcid.org/0000-0001-8496-3725) · [Google Scholar](https://scholar.google.com/citations?user=RPBxP1wAAAAJ&hl=en&oi=ao)
 **Design and product systems**: [design.lawless.ch](https://design.lawless.ch)  
-**Academic record**: [ORCID](https://orcid.org/0000-0001-8496-3725) · [Google Scholar](https://scholar.google.com/citations?user=RPBxP1wAAAAJ&hl=en&oi=ao)
 
 ---
 
 ## Current focus
 
 I build verifiable analytical systems for precision medicine, diagnostics, biomarker research, and biomedical data infrastructure.
-I am especially interested in turning basic research into products for biotech, pharma, and diagnostics. That work depends collaboration, infrastructure, documentation, IP awareness, regulatory judgement, and a clear understanding of how scientific products reach real users.
+I am especially interested in converting our basic research into sucessful products for biotech, pharma, and diagnostics. That work depends collaboration, infrastructure, documentation, IP awareness, regulatory judgement, and a clear understanding of how scientific products reach real users.
 
 Core areas:
 
